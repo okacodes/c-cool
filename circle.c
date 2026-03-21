@@ -4,7 +4,7 @@
 
 #include <stdio.h>
 
-double circleularArea( double r );
+// double circleularArea( double r );
 
 int main()
 {
