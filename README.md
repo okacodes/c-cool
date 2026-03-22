@@ -8,5 +8,5 @@ Cis a general-purpose programming language created in the 1970s by Dennis Ritchi
 C is a low level language that allows you to get a better understanding of what's going on at a hardware level. While I'm deep in the JavaScript ecosystem, I feel like a better understanding of C will help me appreciate how far we've come and make me a better software engineer.
 
 ## Resources Used:
-C in a Nutshell by Peter Prinz and Tony Crawford
+C in a Nutshell by Peter Prinz and Tony Crawford<br>
 Beej's Guide to C Programming(https://beej.us/guide/bgc/)
