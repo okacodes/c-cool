@@ -9,3 +9,4 @@ C is a low level language that allows you to get a better understanding of what'
 
 ## Resources Used:
 C in a Nutshell by Peter Prinz and Tony Crawford
+Beej's Guide to C Programming(https://beej.us/guide/bgc/)
